@@ -1,0 +1,24 @@
+# Binaries
+/server
+*.exe
+*.out
+*.dll
+*.so
+
+# Build folders
+bin/
+dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Env files
+.env
